@@ -1,0 +1,2003 @@
+{
+  "release": "v1.3-public-rc1",
+  "source_archive": "Arduino_STL_Engineering_Library_20_Boards_Private_v1_3.zip",
+  "review_type": "original computational QA plus rechecked watertight STL meshes (trimesh process=True), not physical validation",
+  "fresh_stl_validation": [
+    {
+      "path": "models/ARDUINO_MICRO/ARDUINO_MICRO_ASSEMBLY.stl",
+      "watertight": true,
+      "triangles": 108
+    },
+    {
+      "path": "models/ARDUINO_MICRO/ARDUINO_MICRO_ASSEMBLY_KICAD_REF_MATING_XY_ESTIMATED_PARTS.stl",
+      "watertight": true,
+      "triangles": 19460
+    },
+    {
+      "path": "models/ARDUINO_MICRO/ARDUINO_MICRO_ASSEMBLY_WITH_MALE_PINS.stl",
+      "watertight": true,
+      "triangles": 540
+    },
+    {
+      "path": "models/ARDUINO_MICRO/ARDUINO_MICRO_KICAD_REF_SOCKET_CLEARANCE_ENVELOPES.stl",
+      "watertight": true,
+      "triangles": 24
+    },
+    {
+      "path": "models/ARDUINO_MICRO/ARDUINO_MICRO_PCB_KICAD_REF_HEADER_DRILLS.stl",
+      "watertight": true,
+      "triangles": 19316
+    },
+    {
+      "path": "models/ARDUINO_MICRO/ARDUINO_MICRO_PCB_KICAD_REF_MOUNTING.stl",
+      "watertight": true,
+      "triangles": 2044
+    },
+    {
+      "path": "models/ARDUINO_MICRO/ARDUINO_MICRO_PCB_MOUNTING.stl",
+      "watertight": true,
+      "triangles": 12
+    },
+    {
+      "path": "models/ARDUINO_MICRO/ARDUINO_MICRO_PCB_NOMINAL_HEADER_DRILLS.stl",
+      "watertight": true,
+      "triangles": 17284
+    },
+    {
+      "path": "models/DUE/DUE_ASSEMBLY.stl",
+      "watertight": true,
+      "triangles": 3380
+    },
+    {
+      "path": "models/DUE/DUE_ASSEMBLY_KICAD_REF_MATING_XY_ESTIMATED_PARTS.stl",
+      "watertight": true,
+      "triangles": 50008
+    },
+    {
+      "path": "models/DUE/DUE_KICAD_REF_SOCKET_CLEARANCE_ENVELOPES.stl",
+      "watertight": true,
+      "triangles": 120
+    },
+    {
+      "path": "models/DUE/DUE_PCB_KICAD_REF_HEADER_DRILLS.stl",
+      "watertight": true,
+      "triangles": 49816
+    },
+    {
+      "path": "models/DUE/DUE_PCB_KICAD_REF_MOUNTING.stl",
+      "watertight": true,
+      "triangles": 3080
+    },
+    {
+      "path": "models/DUE/DUE_PCB_MOUNTING.stl",
+      "watertight": true,
+      "triangles": 3224
+    },
+    {
+      "path": "models/GIGA_R1_WIFI/GIGA_R1_WIFI_ASSEMBLY.stl",
+      "watertight": true,
+      "triangles": 3404
+    },
+    {
+      "path": "models/GIGA_R1_WIFI/GIGA_R1_WIFI_ASSEMBLY_KICAD_REF_MATING_XY_ESTIMATED_PARTS.stl",
+      "watertight": true,
+      "triangles": 50032
+    },
+    {
+      "path": "models/GIGA_R1_WIFI/GIGA_R1_WIFI_KICAD_REF_SOCKET_CLEARANCE_ENVELOPES.stl",
+      "watertight": true,
+      "triangles": 120
+    },
+    {
+      "path": "models/GIGA_R1_WIFI/GIGA_R1_WIFI_PCB_KICAD_REF_HEADER_DRILLS.stl",
+      "watertight": true,
+      "triangles": 49816
+    },
+    {
+      "path": "models/GIGA_R1_WIFI/GIGA_R1_WIFI_PCB_KICAD_REF_MOUNTING.stl",
+      "watertight": true,
+      "triangles": 3080
+    },
+    {
+      "path": "models/GIGA_R1_WIFI/GIGA_R1_WIFI_PCB_MOUNTING.stl",
+      "watertight": true,
+      "triangles": 3224
+    },
+    {
+      "path": "models/LEONARDO/LEONARDO_ASSEMBLY.stl",
+      "watertight": true,
+      "triangles": 2388
+    },
+    {
+      "path": "models/LEONARDO/LEONARDO_ASSEMBLY_KICAD_REF_MATING_XY_ESTIMATED_PARTS.stl",
+      "watertight": true,
+      "triangles": 21572
+    },
+    {
+      "path": "models/LEONARDO/LEONARDO_KICAD_REF_SOCKET_CLEARANCE_ENVELOPES.stl",
+      "watertight": true,
+      "triangles": 72
+    },
+    {
+      "path": "models/LEONARDO/LEONARDO_PCB_KICAD_REF_HEADER_DRILLS.stl",
+      "watertight": true,
+      "triangles": 21368
+    },
+    {
+      "path": "models/LEONARDO/LEONARDO_PCB_KICAD_REF_MOUNTING.stl",
+      "watertight": true,
+      "triangles": 2064
+    },
+    {
+      "path": "models/LEONARDO/LEONARDO_PCB_MOUNTING.stl",
+      "watertight": true,
+      "triangles": 2208
+    },
+    {
+      "path": "models/MKR_WAN_1310/MKR_WAN_1310_ASSEMBLY.stl",
+      "watertight": true,
+      "triangles": 96
+    },
+    {
+      "path": "models/MKR_WAN_1310/MKR_WAN_1310_PCB_MOUNTING.stl",
+      "watertight": true,
+      "triangles": 12
+    },
+    {
+      "path": "models/MKR_WAN_1310/MKR_WAN_1310_PCB_NOMINAL_HEADER_DRILLS.stl",
+      "watertight": true,
+      "triangles": 14236
+    },
+    {
+      "path": "models/MKR_WIFI_1010/MKR_WIFI_1010_ASSEMBLY.stl",
+      "watertight": true,
+      "triangles": 84
+    },
+    {
+      "path": "models/MKR_WIFI_1010/MKR_WIFI_1010_PCB_MOUNTING.stl",
+      "watertight": true,
+      "triangles": 12
+    },
+    {
+      "path": "models/MKR_WIFI_1010/MKR_WIFI_1010_PCB_NOMINAL_HEADER_DRILLS.stl",
+      "watertight": true,
+      "triangles": 14236
+    },
+    {
+      "path": "models/NANO_33_BLE/NANO_33_BLE_ASSEMBLY.stl",
+      "watertight": true,
+      "triangles": 120
+    },
+    {
+      "path": "models/NANO_33_BLE/NANO_33_BLE_ASSEMBLY_WITH_MALE_PINS.stl",
+      "watertight": true,
+      "triangles": 504
+    },
+    {
+      "path": "models/NANO_33_BLE/NANO_33_BLE_PCB_MOUNTING.stl",
+      "watertight": true,
+      "triangles": 12
+    },
+    {
+      "path": "models/NANO_33_BLE/NANO_33_BLE_PCB_NOMINAL_HEADER_DRILLS.stl",
+      "watertight": true,
+      "triangles": 15252
+    },
+    {
+      "path": "models/NANO_33_IOT/NANO_33_IOT_ASSEMBLY.stl",
+      "watertight": true,
+      "triangles": 120
+    },
+    {
+      "path": "models/NANO_33_IOT/NANO_33_IOT_ASSEMBLY_WITH_MALE_PINS.stl",
+      "watertight": true,
+      "triangles": 504
+    },
+    {
+      "path": "models/NANO_33_IOT/NANO_33_IOT_PCB_MOUNTING.stl",
+      "watertight": true,
+      "triangles": 12
+    },
+    {
+      "path": "models/NANO_33_IOT/NANO_33_IOT_PCB_NOMINAL_HEADER_DRILLS.stl",
+      "watertight": true,
+      "triangles": 15252
+    },
+    {
+      "path": "models/NANO_CLASSIC/NANO_CLASSIC_ASSEMBLY.stl",
+      "watertight": true,
+      "triangles": 108
+    },
+    {
+      "path": "models/NANO_CLASSIC/NANO_CLASSIC_ASSEMBLY_WITH_MALE_PINS.stl",
+      "watertight": true,
+      "triangles": 492
+    },
+    {
+      "path": "models/NANO_CLASSIC/NANO_CLASSIC_PCB_MOUNTING.stl",
+      "watertight": true,
+      "triangles": 12
+    },
+    {
+      "path": "models/NANO_CLASSIC/NANO_CLASSIC_PCB_NOMINAL_HEADER_DRILLS.stl",
+      "watertight": true,
+      "triangles": 15252
+    },
+    {
+      "path": "models/NANO_ESP32/NANO_ESP32_ASSEMBLY.stl",
+      "watertight": true,
+      "triangles": 120
+    },
+    {
+      "path": "models/NANO_ESP32/NANO_ESP32_ASSEMBLY_WITH_MALE_PINS.stl",
+      "watertight": true,
+      "triangles": 504
+    },
+    {
+      "path": "models/NANO_ESP32/NANO_ESP32_PCB_MOUNTING.stl",
+      "watertight": true,
+      "triangles": 12
+    },
+    {
+      "path": "models/NANO_ESP32/NANO_ESP32_PCB_NOMINAL_HEADER_DRILLS.stl",
+      "watertight": true,
+      "triangles": 15252
+    },
+    {
+      "path": "models/NANO_EVERY/NANO_EVERY_ASSEMBLY.stl",
+      "watertight": true,
+      "triangles": 108
+    },
+    {
+      "path": "models/NANO_EVERY/NANO_EVERY_ASSEMBLY_WITH_MALE_PINS.stl",
+      "watertight": true,
+      "triangles": 492
+    },
+    {
+      "path": "models/NANO_EVERY/NANO_EVERY_PCB_MOUNTING.stl",
+      "watertight": true,
+      "triangles": 12
+    },
+    {
+      "path": "models/NANO_EVERY/NANO_EVERY_PCB_NOMINAL_HEADER_DRILLS.stl",
+      "watertight": true,
+      "triangles": 15252
+    },
+    {
+      "path": "models/NANO_RP2040_CONNECT/NANO_RP2040_CONNECT_ASSEMBLY.stl",
+      "watertight": true,
+      "triangles": 120
+    },
+    {
+      "path": "models/NANO_RP2040_CONNECT/NANO_RP2040_CONNECT_ASSEMBLY_WITH_MALE_PINS.stl",
+      "watertight": true,
+      "triangles": 504
+    },
+    {
+      "path": "models/NANO_RP2040_CONNECT/NANO_RP2040_CONNECT_PCB_MOUNTING.stl",
+      "watertight": true,
+      "triangles": 12
+    },
+    {
+      "path": "models/NANO_RP2040_CONNECT/NANO_RP2040_CONNECT_PCB_NOMINAL_HEADER_DRILLS.stl",
+      "watertight": true,
+      "triangles": 15252
+    },
+    {
+      "path": "models/PRO_MINI_5V_16MHZ/PRO_MINI_5V_16MHZ_ASSEMBLY.stl",
+      "watertight": true,
+      "triangles": 108
+    },
+    {
+      "path": "models/PRO_MINI_5V_16MHZ/PRO_MINI_5V_16MHZ_ASSEMBLY_WITH_MALE_PINS.stl",
+      "watertight": true,
+      "triangles": 420
+    },
+    {
+      "path": "models/PRO_MINI_5V_16MHZ/PRO_MINI_5V_16MHZ_PCB_MOUNTING.stl",
+      "watertight": true,
+      "triangles": 12
+    },
+    {
+      "path": "models/PRO_MINI_5V_16MHZ/PRO_MINI_5V_16MHZ_PCB_NOMINAL_HEADER_DRILLS.stl",
+      "watertight": true,
+      "triangles": 12204
+    },
+    {
+      "path": "models/UNO_R3_DIP/UNO_R3_DIP_PCB_ALL_THROUGH_DRILLS.stl",
+      "watertight": true,
+      "triangles": 46428
+    },
+    {
+      "path": "models/UNO_R3_DIP/UNO_R3_DIP_PCB_MOUNTING.stl",
+      "watertight": true,
+      "triangles": 2208
+    },
+    {
+      "path": "models/UNO_R3_SMD/UNO_R3_SMD_ASSEMBLY.stl",
+      "watertight": true,
+      "triangles": 2388
+    },
+    {
+      "path": "models/UNO_R3_SMD/UNO_R3_SMD_PCB_MOUNTING.stl",
+      "watertight": true,
+      "triangles": 2208
+    },
+    {
+      "path": "models/UNO_R4_MINIMA/UNO_R4_MINIMA_ASSEMBLY.stl",
+      "watertight": true,
+      "triangles": 2388
+    },
+    {
+      "path": "models/UNO_R4_MINIMA/UNO_R4_MINIMA_PCB_MOUNTING.stl",
+      "watertight": true,
+      "triangles": 2208
+    },
+    {
+      "path": "models/UNO_R4_WIFI/UNO_R4_WIFI_ASSEMBLY.stl",
+      "watertight": true,
+      "triangles": 3552
+    },
+    {
+      "path": "models/UNO_R4_WIFI/UNO_R4_WIFI_ASSEMBLY_KICAD_REF_MATING_XY_ESTIMATED_PARTS.stl",
+      "watertight": true,
+      "triangles": 27356
+    },
+    {
+      "path": "models/UNO_R4_WIFI/UNO_R4_WIFI_KICAD_REF_SOCKET_CLEARANCE_ENVELOPES.stl",
+      "watertight": true,
+      "triangles": 120
+    },
+    {
+      "path": "models/UNO_R4_WIFI/UNO_R4_WIFI_PCB_KICAD_REF_HEADER_DRILLS.stl",
+      "watertight": true,
+      "triangles": 25940
+    },
+    {
+      "path": "models/UNO_R4_WIFI/UNO_R4_WIFI_PCB_KICAD_REF_MOUNTING.stl",
+      "watertight": true,
+      "triangles": 2064
+    },
+    {
+      "path": "models/UNO_R4_WIFI/UNO_R4_WIFI_PCB_MOUNTING.stl",
+      "watertight": true,
+      "triangles": 2208
+    },
+    {
+      "path": "precision/ARDUINO_MICRO/ARDUINO_MICRO_V13_ALL_PCB.stl",
+      "watertight": true,
+      "triangles": 24180
+    },
+    {
+      "path": "precision/ARDUINO_MICRO/ARDUINO_MICRO_V13_MOUNT_PCB.stl",
+      "watertight": true,
+      "triangles": 2556
+    },
+    {
+      "path": "precision/DUE/DUE_V13_ALL_PCB.stl",
+      "watertight": true,
+      "triangles": 62360
+    },
+    {
+      "path": "precision/DUE/DUE_V13_MOUNT_PCB.stl",
+      "watertight": true,
+      "triangles": 3848
+    },
+    {
+      "path": "precision/GIGA_R1_WIFI/GIGA_R1_WIFI_V13_ALL_PCB.stl",
+      "watertight": true,
+      "triangles": 62360
+    },
+    {
+      "path": "precision/GIGA_R1_WIFI/GIGA_R1_WIFI_V13_MOUNT_PCB.stl",
+      "watertight": true,
+      "triangles": 3848
+    },
+    {
+      "path": "precision/LEONARDO/LEONARDO_V13_ALL_PCB.stl",
+      "watertight": true,
+      "triangles": 26744
+    },
+    {
+      "path": "precision/LEONARDO/LEONARDO_V13_MOUNT_PCB.stl",
+      "watertight": true,
+      "triangles": 2576
+    },
+    {
+      "path": "precision/UNO_R3_DIP/UNO_R3_DIP_V13_ALL_PCB.stl",
+      "watertight": true,
+      "triangles": 58076
+    },
+    {
+      "path": "precision/UNO_R3_DIP/UNO_R3_DIP_V13_MOUNT_PCB.stl",
+      "watertight": true,
+      "triangles": 2720
+    },
+    {
+      "path": "precision/UNO_R4_WIFI/UNO_R4_WIFI_V13_ALL_PCB.stl",
+      "watertight": true,
+      "triangles": 32468
+    },
+    {
+      "path": "precision/UNO_R4_WIFI/UNO_R4_WIFI_V13_MOUNT_PCB.stl",
+      "watertight": true,
+      "triangles": 2576
+    }
+  ],
+  "stl": [
+    {
+      "path": "models/ARDUINO_MICRO/ARDUINO_MICRO_ASSEMBLY.stl",
+      "watertight_from_private_v13_qa": true,
+      "triangles": 108,
+      "bounds": [
+        [
+          -2.05,
+          0.0,
+          0.0
+        ],
+        [
+          48.0,
+          18.0,
+          4.4
+        ]
+      ]
+    },
+    {
+      "path": "models/ARDUINO_MICRO/ARDUINO_MICRO_ASSEMBLY_KICAD_REF_MATING_XY_ESTIMATED_PARTS.stl",
+      "watertight_from_private_v13_qa": true,
+      "triangles": 19460,
+      "bounds": [
+        [
+          -2.05,
+          0.0,
+          0.0
+        ],
+        [
+          48.48,
+          18.0,
+          10.1
+        ]
+      ]
+    },
+    {
+      "path": "models/ARDUINO_MICRO/ARDUINO_MICRO_ASSEMBLY_WITH_MALE_PINS.stl",
+      "watertight_from_private_v13_qa": true,
+      "triangles": 540,
+      "bounds": [
+        [
+          -2.05,
+          0.0,
+          -3.4
+        ],
+        [
+          48.0,
+          18.0,
+          4.4
+        ]
+      ]
+    },
+    {
+      "path": "models/ARDUINO_MICRO/ARDUINO_MICRO_KICAD_REF_SOCKET_CLEARANCE_ENVELOPES.stl",
+      "watertight_from_private_v13_qa": true,
+      "triangles": 24,
+      "bounds": [
+        [
+          2.69,
+          0.15,
+          1.6
+        ],
+        [
+          45.79,
+          17.85,
+          10.1
+        ]
+      ]
+    },
+    {
+      "path": "models/ARDUINO_MICRO/ARDUINO_MICRO_PCB_KICAD_REF_HEADER_DRILLS.stl",
+      "watertight_from_private_v13_qa": true,
+      "triangles": 19316,
+      "bounds": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          48.48,
+          18.0,
+          1.6
+        ]
+      ]
+    },
+    {
+      "path": "models/ARDUINO_MICRO/ARDUINO_MICRO_PCB_KICAD_REF_MOUNTING.stl",
+      "watertight_from_private_v13_qa": true,
+      "triangles": 2044,
+      "bounds": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          48.48,
+          18.0,
+          1.6
+        ]
+      ]
+    },
+    {
+      "path": "models/ARDUINO_MICRO/ARDUINO_MICRO_PCB_MOUNTING.stl",
+      "watertight_from_private_v13_qa": true,
+      "triangles": 12,
+      "bounds": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          48.0,
+          18.0,
+          1.6
+        ]
+      ]
+    },
+    {
+      "path": "models/ARDUINO_MICRO/ARDUINO_MICRO_PCB_NOMINAL_HEADER_DRILLS.stl",
+      "watertight_from_private_v13_qa": true,
+      "triangles": 17284,
+      "bounds": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          48.0,
+          18.0,
+          1.6
+        ]
+      ]
+    },
+    {
+      "path": "models/DUE/DUE_ASSEMBLY.stl",
+      "watertight_from_private_v13_qa": true,
+      "triangles": 3380,
+      "bounds": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          101.6,
+          53.34,
+          12.6
+        ]
+      ]
+    },
+    {
+      "path": "models/DUE/DUE_ASSEMBLY_KICAD_REF_MATING_XY_ESTIMATED_PARTS.stl",
+      "watertight_from_private_v13_qa": true,
+      "triangles": 50008,
+      "bounds": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          101.6,
+          53.34,
+          12.6
+        ]
+      ]
+    },
+    {
+      "path": "models/DUE/DUE_KICAD_REF_SOCKET_CLEARANCE_ENVELOPES.stl",
+      "watertight_from_private_v13_qa": true,
+      "triangles": 120,
+      "bounds": [
+        [
+          17.566,
+          1.31,
+          1.6
+        ],
+        [
+          97.75,
+          52.03,
+          10.1
+        ]
+      ]
+    },
+    {
+      "path": "models/DUE/DUE_PCB_KICAD_REF_HEADER_DRILLS.stl",
+      "watertight_from_private_v13_qa": true,
+      "triangles": 49816,
+      "bounds": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          101.6,
+          53.34,
+          1.6
+        ]
+      ]
+    },
+    {
+      "path": "models/DUE/DUE_PCB_KICAD_REF_MOUNTING.stl",
+      "watertight_from_private_v13_qa": true,
+      "triangles": 3080,
+      "bounds": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          101.6,
+          53.34,
+          1.6
+        ]
+      ]
+    },
+    {
+      "path": "models/DUE/DUE_PCB_MOUNTING.stl",
+      "watertight_from_private_v13_qa": true,
+      "triangles": 3224,
+      "bounds": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          101.6,
+          53.34,
+          1.6
+        ]
+      ]
+    },
+    {
+      "path": "models/GIGA_R1_WIFI/GIGA_R1_WIFI_ASSEMBLY.stl",
+      "watertight_from_private_v13_qa": true,
+      "triangles": 3404,
+      "bounds": [
+        [
+          -1.3,
+          0.0,
+          0.0
+        ],
+        [
+          101.6,
+          53.34,
+          12.6
+        ]
+      ]
+    },
+    {
+      "path": "models/GIGA_R1_WIFI/GIGA_R1_WIFI_ASSEMBLY_KICAD_REF_MATING_XY_ESTIMATED_PARTS.stl",
+      "watertight_from_private_v13_qa": true,
+      "triangles": 50032,
+      "bounds": [
+        [
+          -1.3,
+          0.0,
+          0.0
+        ],
+        [
+          101.6,
+          53.34,
+          12.6
+        ]
+      ]
+    },
+    {
+      "path": "models/GIGA_R1_WIFI/GIGA_R1_WIFI_KICAD_REF_SOCKET_CLEARANCE_ENVELOPES.stl",
+      "watertight_from_private_v13_qa": true,
+      "triangles": 120,
+      "bounds": [
+        [
+          17.566,
+          1.31,
+          1.6
+        ],
+        [
+          97.75,
+          52.03,
+          10.1
+        ]
+      ]
+    },
+    {
+      "path": "models/GIGA_R1_WIFI/GIGA_R1_WIFI_PCB_KICAD_REF_HEADER_DRILLS.stl",
+      "watertight_from_private_v13_qa": true,
+      "triangles": 49816,
+      "bounds": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          101.6,
+          53.34,
+          1.6
+        ]
+      ]
+    },
+    {
+      "path": "models/GIGA_R1_WIFI/GIGA_R1_WIFI_PCB_KICAD_REF_MOUNTING.stl",
+      "watertight_from_private_v13_qa": true,
+      "triangles": 3080,
+      "bounds": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          101.6,
+          53.34,
+          1.6
+        ]
+      ]
+    },
+    {
+      "path": "models/GIGA_R1_WIFI/GIGA_R1_WIFI_PCB_MOUNTING.stl",
+      "watertight_from_private_v13_qa": true,
+      "triangles": 3224,
+      "bounds": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          101.6,
+          53.34,
+          1.6
+        ]
+      ]
+    },
+    {
+      "path": "models/LEONARDO/LEONARDO_ASSEMBLY.stl",
+      "watertight_from_private_v13_qa": true,
+      "triangles": 2388,
+      "bounds": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          68.58,
+          53.34,
+          12.6
+        ]
+      ]
+    },
+    {
+      "path": "models/LEONARDO/LEONARDO_ASSEMBLY_KICAD_REF_MATING_XY_ESTIMATED_PARTS.stl",
+      "watertight_from_private_v13_qa": true,
+      "triangles": 21572,
+      "bounds": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          68.58,
+          53.34,
+          12.6
+        ]
+      ]
+    },
+    {
+      "path": "models/LEONARDO/LEONARDO_KICAD_REF_SOCKET_CLEARANCE_ENVELOPES.stl",
+      "watertight_from_private_v13_qa": true,
+      "triangles": 72,
+      "bounds": [
+        [
+          17.566,
+          1.31,
+          1.6
+        ],
+        [
+          67.397,
+          52.03,
+          10.1
+        ]
+      ]
+    },
+    {
+      "path": "models/LEONARDO/LEONARDO_PCB_KICAD_REF_HEADER_DRILLS.stl",
+      "watertight_from_private_v13_qa": true,
+      "triangles": 21368,
+      "bounds": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          68.58,
+          53.34,
+          1.6
+        ]
+      ]
+    },
+    {
+      "path": "models/LEONARDO/LEONARDO_PCB_KICAD_REF_MOUNTING.stl",
+      "watertight_from_private_v13_qa": true,
+      "triangles": 2064,
+      "bounds": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          68.58,
+          53.34,
+          1.6
+        ]
+      ]
+    },
+    {
+      "path": "models/LEONARDO/LEONARDO_PCB_MOUNTING.stl",
+      "watertight_from_private_v13_qa": true,
+      "triangles": 2208,
+      "bounds": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          68.58,
+          53.34,
+          1.6
+        ]
+      ]
+    },
+    {
+      "path": "models/MKR_WAN_1310/MKR_WAN_1310_ASSEMBLY.stl",
+      "watertight_from_private_v13_qa": true,
+      "triangles": 96,
+      "bounds": [
+        [
+          -1.55,
+          0.0,
+          0.0
+        ],
+        [
+          67.64,
+          25.0,
+          10.1
+        ]
+      ]
+    },
+    {
+      "path": "models/MKR_WAN_1310/MKR_WAN_1310_PCB_MOUNTING.stl",
+      "watertight_from_private_v13_qa": true,
+      "triangles": 12,
+      "bounds": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          67.64,
+          25.0,
+          1.6
+        ]
+      ]
+    },
+    {
+      "path": "models/MKR_WAN_1310/MKR_WAN_1310_PCB_NOMINAL_HEADER_DRILLS.stl",
+      "watertight_from_private_v13_qa": true,
+      "triangles": 14236,
+      "bounds": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          67.64,
+          25.0,
+          1.6
+        ]
+      ]
+    },
+    {
+      "path": "models/MKR_WIFI_1010/MKR_WIFI_1010_ASSEMBLY.stl",
+      "watertight_from_private_v13_qa": true,
+      "triangles": 84,
+      "bounds": [
+        [
+          -1.55,
+          0.0,
+          0.0
+        ],
+        [
+          61.5,
+          25.0,
+          10.1
+        ]
+      ]
+    },
+    {
+      "path": "models/MKR_WIFI_1010/MKR_WIFI_1010_PCB_MOUNTING.stl",
+      "watertight_from_private_v13_qa": true,
+      "triangles": 12,
+      "bounds": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          61.5,
+          25.0,
+          1.6
+        ]
+      ]
+    },
+    {
+      "path": "models/MKR_WIFI_1010/MKR_WIFI_1010_PCB_NOMINAL_HEADER_DRILLS.stl",
+      "watertight_from_private_v13_qa": true,
+      "triangles": 14236,
+      "bounds": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          61.5,
+          25.0,
+          1.6
+        ]
+      ]
+    },
+    {
+      "path": "models/NANO_33_BLE/NANO_33_BLE_ASSEMBLY.stl",
+      "watertight_from_private_v13_qa": true,
+      "triangles": 120,
+      "bounds": [
+        [
+          -2.05,
+          0.0,
+          0.0
+        ],
+        [
+          45.0,
+          18.0,
+          4.4
+        ]
+      ]
+    },
+    {
+      "path": "models/NANO_33_BLE/NANO_33_BLE_ASSEMBLY_WITH_MALE_PINS.stl",
+      "watertight_from_private_v13_qa": true,
+      "triangles": 504,
+      "bounds": [
+        [
+          -2.05,
+          0.0,
+          -3.4
+        ],
+        [
+          45.0,
+          18.0,
+          4.4
+        ]
+      ]
+    },
+    {
+      "path": "models/NANO_33_BLE/NANO_33_BLE_PCB_MOUNTING.stl",
+      "watertight_from_private_v13_qa": true,
+      "triangles": 12,
+      "bounds": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          45.0,
+          18.0,
+          1.6
+        ]
+      ]
+    },
+    {
+      "path": "models/NANO_33_BLE/NANO_33_BLE_PCB_NOMINAL_HEADER_DRILLS.stl",
+      "watertight_from_private_v13_qa": true,
+      "triangles": 15252,
+      "bounds": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          45.0,
+          18.0,
+          1.6
+        ]
+      ]
+    },
+    {
+      "path": "models/NANO_33_IOT/NANO_33_IOT_ASSEMBLY.stl",
+      "watertight_from_private_v13_qa": true,
+      "triangles": 120,
+      "bounds": [
+        [
+          -2.05,
+          0.0,
+          0.0
+        ],
+        [
+          45.0,
+          18.0,
+          4.4
+        ]
+      ]
+    },
+    {
+      "path": "models/NANO_33_IOT/NANO_33_IOT_ASSEMBLY_WITH_MALE_PINS.stl",
+      "watertight_from_private_v13_qa": true,
+      "triangles": 504,
+      "bounds": [
+        [
+          -2.05,
+          0.0,
+          -3.4
+        ],
+        [
+          45.0,
+          18.0,
+          4.4
+        ]
+      ]
+    },
+    {
+      "path": "models/NANO_33_IOT/NANO_33_IOT_PCB_MOUNTING.stl",
+      "watertight_from_private_v13_qa": true,
+      "triangles": 12,
+      "bounds": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          45.0,
+          18.0,
+          1.6
+        ]
+      ]
+    },
+    {
+      "path": "models/NANO_33_IOT/NANO_33_IOT_PCB_NOMINAL_HEADER_DRILLS.stl",
+      "watertight_from_private_v13_qa": true,
+      "triangles": 15252,
+      "bounds": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          45.0,
+          18.0,
+          1.6
+        ]
+      ]
+    },
+    {
+      "path": "models/NANO_CLASSIC/NANO_CLASSIC_ASSEMBLY.stl",
+      "watertight_from_private_v13_qa": true,
+      "triangles": 108,
+      "bounds": [
+        [
+          -1.95,
+          0.0,
+          0.0
+        ],
+        [
+          45.0,
+          18.0,
+          5.6
+        ]
+      ]
+    },
+    {
+      "path": "models/NANO_CLASSIC/NANO_CLASSIC_ASSEMBLY_WITH_MALE_PINS.stl",
+      "watertight_from_private_v13_qa": true,
+      "triangles": 492,
+      "bounds": [
+        [
+          -1.95,
+          0.0,
+          -3.4
+        ],
+        [
+          45.0,
+          18.0,
+          5.6
+        ]
+      ]
+    },
+    {
+      "path": "models/NANO_CLASSIC/NANO_CLASSIC_PCB_MOUNTING.stl",
+      "watertight_from_private_v13_qa": true,
+      "triangles": 12,
+      "bounds": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          45.0,
+          18.0,
+          1.6
+        ]
+      ]
+    },
+    {
+      "path": "models/NANO_CLASSIC/NANO_CLASSIC_PCB_NOMINAL_HEADER_DRILLS.stl",
+      "watertight_from_private_v13_qa": true,
+      "triangles": 15252,
+      "bounds": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          45.0,
+          18.0,
+          1.6
+        ]
+      ]
+    },
+    {
+      "path": "models/NANO_ESP32/NANO_ESP32_ASSEMBLY.stl",
+      "watertight_from_private_v13_qa": true,
+      "triangles": 120,
+      "bounds": [
+        [
+          -2.4,
+          0.0,
+          0.0
+        ],
+        [
+          45.0,
+          18.0,
+          4.8
+        ]
+      ]
+    },
+    {
+      "path": "models/NANO_ESP32/NANO_ESP32_ASSEMBLY_WITH_MALE_PINS.stl",
+      "watertight_from_private_v13_qa": true,
+      "triangles": 504,
+      "bounds": [
+        [
+          -2.4,
+          0.0,
+          -3.4
+        ],
+        [
+          45.0,
+          18.0,
+          4.8
+        ]
+      ]
+    },
+    {
+      "path": "models/NANO_ESP32/NANO_ESP32_PCB_MOUNTING.stl",
+      "watertight_from_private_v13_qa": true,
+      "triangles": 12,
+      "bounds": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          45.0,
+          18.0,
+          1.6
+        ]
+      ]
+    },
+    {
+      "path": "models/NANO_ESP32/NANO_ESP32_PCB_NOMINAL_HEADER_DRILLS.stl",
+      "watertight_from_private_v13_qa": true,
+      "triangles": 15252,
+      "bounds": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          45.0,
+          18.0,
+          1.6
+        ]
+      ]
+    },
+    {
+      "path": "models/NANO_EVERY/NANO_EVERY_ASSEMBLY.stl",
+      "watertight_from_private_v13_qa": true,
+      "triangles": 108,
+      "bounds": [
+        [
+          -2.05,
+          0.0,
+          0.0
+        ],
+        [
+          45.0,
+          18.0,
+          4.4
+        ]
+      ]
+    },
+    {
+      "path": "models/NANO_EVERY/NANO_EVERY_ASSEMBLY_WITH_MALE_PINS.stl",
+      "watertight_from_private_v13_qa": true,
+      "triangles": 492,
+      "bounds": [
+        [
+          -2.05,
+          0.0,
+          -3.4
+        ],
+        [
+          45.0,
+          18.0,
+          4.4
+        ]
+      ]
+    },
+    {
+      "path": "models/NANO_EVERY/NANO_EVERY_PCB_MOUNTING.stl",
+      "watertight_from_private_v13_qa": true,
+      "triangles": 12,
+      "bounds": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          45.0,
+          18.0,
+          1.6
+        ]
+      ]
+    },
+    {
+      "path": "models/NANO_EVERY/NANO_EVERY_PCB_NOMINAL_HEADER_DRILLS.stl",
+      "watertight_from_private_v13_qa": true,
+      "triangles": 15252,
+      "bounds": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          45.0,
+          18.0,
+          1.6
+        ]
+      ]
+    },
+    {
+      "path": "models/NANO_RP2040_CONNECT/NANO_RP2040_CONNECT_ASSEMBLY.stl",
+      "watertight_from_private_v13_qa": true,
+      "triangles": 120,
+      "bounds": [
+        [
+          -2.05,
+          0.0,
+          0.0
+        ],
+        [
+          45.0,
+          18.0,
+          4.4
+        ]
+      ]
+    },
+    {
+      "path": "models/NANO_RP2040_CONNECT/NANO_RP2040_CONNECT_ASSEMBLY_WITH_MALE_PINS.stl",
+      "watertight_from_private_v13_qa": true,
+      "triangles": 504,
+      "bounds": [
+        [
+          -2.05,
+          0.0,
+          -3.4
+        ],
+        [
+          45.0,
+          18.0,
+          4.4
+        ]
+      ]
+    },
+    {
+      "path": "models/NANO_RP2040_CONNECT/NANO_RP2040_CONNECT_PCB_MOUNTING.stl",
+      "watertight_from_private_v13_qa": true,
+      "triangles": 12,
+      "bounds": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          45.0,
+          18.0,
+          1.6
+        ]
+      ]
+    },
+    {
+      "path": "models/NANO_RP2040_CONNECT/NANO_RP2040_CONNECT_PCB_NOMINAL_HEADER_DRILLS.stl",
+      "watertight_from_private_v13_qa": true,
+      "triangles": 15252,
+      "bounds": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          45.0,
+          18.0,
+          1.6
+        ]
+      ]
+    },
+    {
+      "path": "models/PRO_MINI_5V_16MHZ/PRO_MINI_5V_16MHZ_ASSEMBLY.stl",
+      "watertight_from_private_v13_qa": true,
+      "triangles": 108,
+      "bounds": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          33.0,
+          18.0,
+          10.1
+        ]
+      ]
+    },
+    {
+      "path": "models/PRO_MINI_5V_16MHZ/PRO_MINI_5V_16MHZ_ASSEMBLY_WITH_MALE_PINS.stl",
+      "watertight_from_private_v13_qa": true,
+      "triangles": 420,
+      "bounds": [
+        [
+          0.0,
+          0.0,
+          -3.4
+        ],
+        [
+          33.0,
+          18.0,
+          10.1
+        ]
+      ]
+    },
+    {
+      "path": "models/PRO_MINI_5V_16MHZ/PRO_MINI_5V_16MHZ_PCB_MOUNTING.stl",
+      "watertight_from_private_v13_qa": true,
+      "triangles": 12,
+      "bounds": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          33.0,
+          18.0,
+          1.6
+        ]
+      ]
+    },
+    {
+      "path": "models/PRO_MINI_5V_16MHZ/PRO_MINI_5V_16MHZ_PCB_NOMINAL_HEADER_DRILLS.stl",
+      "watertight_from_private_v13_qa": true,
+      "triangles": 12204,
+      "bounds": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          33.0,
+          18.0,
+          1.6
+        ]
+      ]
+    },
+    {
+      "path": "models/UNO_R3_DIP/UNO_R3_DIP_PCB_ALL_THROUGH_DRILLS.stl",
+      "watertight_from_private_v13_qa": true,
+      "triangles": 46428,
+      "bounds": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          68.58,
+          53.34,
+          1.6
+        ]
+      ]
+    },
+    {
+      "path": "models/UNO_R3_DIP/UNO_R3_DIP_PCB_MOUNTING.stl",
+      "watertight_from_private_v13_qa": true,
+      "triangles": 2208,
+      "bounds": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          68.58,
+          53.34,
+          1.6
+        ]
+      ]
+    },
+    {
+      "path": "models/UNO_R3_SMD/UNO_R3_SMD_ASSEMBLY.stl",
+      "watertight_from_private_v13_qa": true,
+      "triangles": 2388,
+      "bounds": [
+        [
+          -2.5,
+          0.0,
+          0.0
+        ],
+        [
+          68.58,
+          53.34,
+          12.6
+        ]
+      ]
+    },
+    {
+      "path": "models/UNO_R3_SMD/UNO_R3_SMD_PCB_MOUNTING.stl",
+      "watertight_from_private_v13_qa": true,
+      "triangles": 2208,
+      "bounds": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          68.58,
+          53.34,
+          1.6
+        ]
+      ]
+    },
+    {
+      "path": "models/UNO_R4_MINIMA/UNO_R4_MINIMA_ASSEMBLY.stl",
+      "watertight_from_private_v13_qa": true,
+      "triangles": 2388,
+      "bounds": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          68.58,
+          53.34,
+          12.6
+        ]
+      ]
+    },
+    {
+      "path": "models/UNO_R4_MINIMA/UNO_R4_MINIMA_PCB_MOUNTING.stl",
+      "watertight_from_private_v13_qa": true,
+      "triangles": 2208,
+      "bounds": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          68.58,
+          53.34,
+          1.6
+        ]
+      ]
+    },
+    {
+      "path": "models/UNO_R4_WIFI/UNO_R4_WIFI_ASSEMBLY.stl",
+      "watertight_from_private_v13_qa": true,
+      "triangles": 3552,
+      "bounds": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          68.58,
+          53.34,
+          12.6
+        ]
+      ]
+    },
+    {
+      "path": "models/UNO_R4_WIFI/UNO_R4_WIFI_ASSEMBLY_KICAD_REF_MATING_XY_ESTIMATED_PARTS.stl",
+      "watertight_from_private_v13_qa": true,
+      "triangles": 27356,
+      "bounds": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          68.58,
+          53.34,
+          12.6
+        ]
+      ]
+    },
+    {
+      "path": "models/UNO_R4_WIFI/UNO_R4_WIFI_KICAD_REF_SOCKET_CLEARANCE_ENVELOPES.stl",
+      "watertight_from_private_v13_qa": true,
+      "triangles": 120,
+      "bounds": [
+        [
+          15.026,
+          1.31,
+          1.6
+        ],
+        [
+          67.397,
+          52.03,
+          10.1
+        ]
+      ]
+    },
+    {
+      "path": "models/UNO_R4_WIFI/UNO_R4_WIFI_PCB_KICAD_REF_HEADER_DRILLS.stl",
+      "watertight_from_private_v13_qa": true,
+      "triangles": 25940,
+      "bounds": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          68.58,
+          53.34,
+          1.6
+        ]
+      ]
+    },
+    {
+      "path": "models/UNO_R4_WIFI/UNO_R4_WIFI_PCB_KICAD_REF_MOUNTING.stl",
+      "watertight_from_private_v13_qa": true,
+      "triangles": 2064,
+      "bounds": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          68.58,
+          53.34,
+          1.6
+        ]
+      ]
+    },
+    {
+      "path": "models/UNO_R4_WIFI/UNO_R4_WIFI_PCB_MOUNTING.stl",
+      "watertight_from_private_v13_qa": true,
+      "triangles": 2208,
+      "bounds": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          68.58,
+          53.34,
+          1.6
+        ]
+      ]
+    },
+    {
+      "path": "precision/ARDUINO_MICRO/ARDUINO_MICRO_V13_ALL_PCB.stl",
+      "watertight_from_private_v13_qa": true,
+      "triangles": 24180,
+      "bounds": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          48.48,
+          18.0,
+          1.6
+        ]
+      ]
+    },
+    {
+      "path": "precision/ARDUINO_MICRO/ARDUINO_MICRO_V13_MOUNT_PCB.stl",
+      "watertight_from_private_v13_qa": true,
+      "triangles": 2556,
+      "bounds": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          48.48,
+          18.0,
+          1.6
+        ]
+      ]
+    },
+    {
+      "path": "precision/DUE/DUE_V13_ALL_PCB.stl",
+      "watertight_from_private_v13_qa": true,
+      "triangles": 62360,
+      "bounds": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          101.6,
+          53.34,
+          1.6
+        ]
+      ]
+    },
+    {
+      "path": "precision/DUE/DUE_V13_MOUNT_PCB.stl",
+      "watertight_from_private_v13_qa": true,
+      "triangles": 3848,
+      "bounds": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          101.6,
+          53.34,
+          1.6
+        ]
+      ]
+    },
+    {
+      "path": "precision/GIGA_R1_WIFI/GIGA_R1_WIFI_V13_ALL_PCB.stl",
+      "watertight_from_private_v13_qa": true,
+      "triangles": 62360,
+      "bounds": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          101.6,
+          53.34,
+          1.6
+        ]
+      ]
+    },
+    {
+      "path": "precision/GIGA_R1_WIFI/GIGA_R1_WIFI_V13_MOUNT_PCB.stl",
+      "watertight_from_private_v13_qa": true,
+      "triangles": 3848,
+      "bounds": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          101.6,
+          53.34,
+          1.6
+        ]
+      ]
+    },
+    {
+      "path": "precision/LEONARDO/LEONARDO_V13_ALL_PCB.stl",
+      "watertight_from_private_v13_qa": true,
+      "triangles": 26744,
+      "bounds": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          68.58,
+          53.34,
+          1.6
+        ]
+      ]
+    },
+    {
+      "path": "precision/LEONARDO/LEONARDO_V13_MOUNT_PCB.stl",
+      "watertight_from_private_v13_qa": true,
+      "triangles": 2576,
+      "bounds": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          68.58,
+          53.34,
+          1.6
+        ]
+      ]
+    },
+    {
+      "path": "precision/UNO_R3_DIP/UNO_R3_DIP_V13_ALL_PCB.stl",
+      "watertight_from_private_v13_qa": true,
+      "triangles": 58076,
+      "bounds": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          68.58,
+          53.34,
+          1.6
+        ]
+      ]
+    },
+    {
+      "path": "precision/UNO_R3_DIP/UNO_R3_DIP_V13_MOUNT_PCB.stl",
+      "watertight_from_private_v13_qa": true,
+      "triangles": 2720,
+      "bounds": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          68.58,
+          53.34,
+          1.6
+        ]
+      ]
+    },
+    {
+      "path": "precision/UNO_R4_WIFI/UNO_R4_WIFI_V13_ALL_PCB.stl",
+      "watertight_from_private_v13_qa": true,
+      "triangles": 32468,
+      "bounds": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          68.58,
+          53.34,
+          1.6
+        ]
+      ]
+    },
+    {
+      "path": "precision/UNO_R4_WIFI/UNO_R4_WIFI_V13_MOUNT_PCB.stl",
+      "watertight_from_private_v13_qa": true,
+      "triangles": 2576,
+      "bounds": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          68.58,
+          53.34,
+          1.6
+        ]
+      ]
+    }
+  ],
+  "step": [
+    {
+      "board": "UNO_R3_DIP",
+      "kind": "MOUNT",
+      "round_trip_valid": true,
+      "solid_count": 1,
+      "bbox_mm": [
+        68.58,
+        53.34,
+        1.6
+      ],
+      "volume_mm3": 5725.2306
+    },
+    {
+      "board": "UNO_R3_DIP",
+      "kind": "ALL",
+      "round_trip_valid": true,
+      "solid_count": 1,
+      "bbox_mm": [
+        68.58,
+        53.34,
+        1.6
+      ],
+      "volume_mm3": 5618.2121
+    },
+    {
+      "board": "LEONARDO",
+      "kind": "MOUNT",
+      "round_trip_valid": true,
+      "solid_count": 1,
+      "bbox_mm": [
+        68.58,
+        53.34,
+        1.6
+      ],
+      "volume_mm3": 5732.465
+    },
+    {
+      "board": "LEONARDO",
+      "kind": "ALL",
+      "round_trip_valid": true,
+      "solid_count": 1,
+      "bbox_mm": [
+        68.58,
+        53.34,
+        1.6
+      ],
+      "volume_mm3": 5683.1725
+    },
+    {
+      "board": "UNO_R4_WIFI",
+      "kind": "MOUNT",
+      "round_trip_valid": true,
+      "solid_count": 1,
+      "bbox_mm": [
+        68.58,
+        53.34,
+        1.6
+      ],
+      "volume_mm3": 5732.465
+    },
+    {
+      "board": "UNO_R4_WIFI",
+      "kind": "ALL",
+      "round_trip_valid": true,
+      "solid_count": 1,
+      "bbox_mm": [
+        68.58,
+        53.34,
+        1.6
+      ],
+      "volume_mm3": 5671.4979
+    },
+    {
+      "board": "DUE",
+      "kind": "MOUNT",
+      "round_trip_valid": true,
+      "solid_count": 1,
+      "bbox_mm": [
+        101.6,
+        53.34,
+        1.6
+      ],
+      "volume_mm3": 8524.7879
+    },
+    {
+      "board": "DUE",
+      "kind": "ALL",
+      "round_trip_valid": true,
+      "solid_count": 1,
+      "bbox_mm": [
+        101.6,
+        53.34,
+        1.6
+      ],
+      "volume_mm3": 8405.4482
+    },
+    {
+      "board": "GIGA_R1_WIFI",
+      "kind": "MOUNT",
+      "round_trip_valid": true,
+      "solid_count": 1,
+      "bbox_mm": [
+        101.6,
+        53.34,
+        1.6
+      ],
+      "volume_mm3": 8524.7879
+    },
+    {
+      "board": "GIGA_R1_WIFI",
+      "kind": "ALL",
+      "round_trip_valid": true,
+      "solid_count": 1,
+      "bbox_mm": [
+        101.6,
+        53.34,
+        1.6
+      ],
+      "volume_mm3": 8405.4482
+    },
+    {
+      "board": "ARDUINO_MICRO",
+      "kind": "MOUNT",
+      "round_trip_valid": true,
+      "solid_count": 1,
+      "bbox_mm": [
+        48.48,
+        18.0,
+        1.6
+      ],
+      "volume_mm3": 1387.5378
+    },
+    {
+      "board": "ARDUINO_MICRO",
+      "kind": "ALL",
+      "round_trip_valid": true,
+      "solid_count": 1,
+      "bbox_mm": [
+        48.48,
+        18.0,
+        1.6
+      ],
+      "volume_mm3": 1343.434
+    }
+  ]
+}
